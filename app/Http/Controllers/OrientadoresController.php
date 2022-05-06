@@ -262,6 +262,6 @@ class OrientadoresController extends Controller
     {
         $bajas = Bajas::where('status',1)->get();
 
-        return view('opcionesorientador.mostrarBajas')->with('bajas', $bajas);
+        return view('opcionesorientador.mostrarbajas')->with('bajas', $bajas);
     }
 }

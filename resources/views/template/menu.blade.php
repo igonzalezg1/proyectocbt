@@ -3,7 +3,7 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div id="logo">
-        <a href="{!! asset('inicio') !!}" class="text-success clase1"><img src="{!! asset('estilo/assets/img/iconoesc.png') !!}" width="50px"> CBT. Dr. Ezequiel Capistran Rodriguez</a>
+        <a href="{!! asset('inicio') !!}" class="text-success clase1"><img src="{!! asset('estilo/assets/img/iconoesc.png') !!}" width="50px"> CBT. Dr. Ezequiel Capistrán Rodríguez</a>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" title="" /></a>-->
       </div>

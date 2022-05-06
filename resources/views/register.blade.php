@@ -118,8 +118,8 @@
         <br />
     </div>
     <div class="form-group">
-        {!! Form::label ('correo', 'Correo electronico',['class'=>'text-success miest']) !!}
-        {!! Form::email ('correo',null,['placeholder'=>'Ingresa el correo electronico', 'class'=>'form-control']) !!}
+        {!! Form::label ('correo', 'Correo electrónico',['class'=>'text-success miest']) !!}
+        {!! Form::email ('correo',null,['placeholder'=>'Ingresa el correo electrónico', 'class'=>'form-control']) !!}
     </div>
     <div class="form-group">
         {!! Form::label ('username', 'Nombre de usuario',['class'=>'text-success miest']) !!}

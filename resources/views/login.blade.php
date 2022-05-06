@@ -13,7 +13,7 @@
         </div>
         <div class="col-sm-4"></div>
     </div>
-    <h1 align="center" class="text-success">&nbsp; &nbsp; &nbsp; &nbsp;Iniciar sesion</h1>
+    <h1 align="center" class="text-success">&nbsp; &nbsp; &nbsp; &nbsp;Iniciar sesión</h1>
     <div class="row">
         <div class="col-sm-2"></div>
         <div class="col-sm-8">

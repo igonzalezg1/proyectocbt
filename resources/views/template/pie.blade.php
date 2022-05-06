@@ -3,15 +3,15 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-3">
-          <h5 class="h5 text-white">Informacion</h5>
-          <p class="text-light">Sistema desarrollado para orientadores del turno vespertino, y para personal del area de informatica.</p>
+          <h5 class="h5 text-white">Información</h5>
+          <p class="text-light">Sistema desarrollado para orientadores del turno vespertino.</p>
         </div>
         <div class="col-sm-5">
           <h5 class="h5 text-white">Carreras ofertadas vespertino:</h5>
           <ul>
-            <li><p class="text-light">Tecnico en Informatica</p></li>
-            <li><p class="text-light">Tecnico en Contabilidad</p></li>
-            <li><p class="text-light">Tecnico en Diseño Asistido por computadora</p></li>
+            <li><p class="text-light">Técnico en Informática</p></li>
+            <li><p class="text-light">Técnico en Contabilidad</p></li>
+            <li><p class="text-light">Técnico en Diseño Asistido por computadora</p></li>
           </ul>
         </div>
         <div class="col-sm-4">

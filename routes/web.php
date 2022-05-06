@@ -61,15 +61,15 @@ Route::group(['middleware'=>'auth'], function(){
     Route::get('cerrar', 'Auth\LoginController@getLogout');
 
     Route::get('sin_acceso',function(){
-        return view("mensajes.error_acceso")->with('msj','Sin privilegios para entrar a area de administradores.');
+        return view("mensajes.error_acceso")->with('msj','Sin privilegios para entrar al área de administradores.');
     });
 
     Route::get('sin_acceso2',function(){
-        return view("mensajes.error_acceso")->with('msj','Sin privilegios para entrar a area de orientadores.');
+        return view("mensajes.error_acceso")->with('msj','Sin privilegios para entrar al área de orientadores.');
     });
 
     Route::get('sin_acceso3',function(){
-        return view("mensajes.error_acceso")->with('msj','Sin privilegios para entrar a area de secretarias.');
+        return view("mensajes.error_acceso")->with('msj','Sin privilegios para entrar al área de secretarias.');
     });
 
 });
